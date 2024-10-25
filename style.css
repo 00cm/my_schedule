@@ -61,6 +61,69 @@ nav a:hover {
     color: #ff00b3;
 }
 
+/* Table */
+
+.table-container {
+    width: 80%;
+    margin: 50px auto;
+}
+
+table, th, td {
+    border: 2px solid #82F2FF;
+}
+
+th, td {
+    width: 100px;
+    height: 25px;
+}
+
+table {
+    margin: auto;
+    color: #845577;
+}
+
+td {
+    text-align: center;
+    background-color: #E2E2E2;
+}
+
+td:hover {
+    background-color: #ff00b3;
+    color: black;
+    font-size: 1.2em;
+}
+
+.bgcolor:hover {
+    background-color: rgb(121, 152, 255);
+    color: #845577;
+    font-size: 1em;
+}
+
+.time {
+    background-color: #82F2FF;
+}
+
+.bgcolor {
+    background-color: rgb(121, 152, 255);
+}
+.time-time {
+    background-color: #FDAEF2;
+}
+.monday {
+    background-color: #93ABEB;
+}
+.tuesday {
+    background-color: #9EC781;
+}
+.wednesday {
+    background-color: #FFD181;
+}
+.thursday {
+    background-color: #BCAEFD;
+}
+.friday {
+    background-color: #FF8DAA;
+}
 
 /* Footer */
 
