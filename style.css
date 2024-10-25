@@ -2,9 +2,8 @@
     Name: Chloe McEntire
     Assignment: My Schedule
     Date: Oct 28, 2024
-*/
 
-/* Git problems? */
+*/
 
 body {
     background-color: #E1AFD2;
@@ -82,10 +81,10 @@ th, td {
 table {
     margin: auto;
     color: #845577;
+    text-align: center;
 }
 
 td {
-    text-align: center;
     background-color: #E2E2E2;
 }
 
